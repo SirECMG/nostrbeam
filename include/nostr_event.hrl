@@ -1,8 +1,9 @@
 -record(event, {
-          id,
-          pubkey,
-          created_at,
-          kind,
-          tags,
-          content,
-          sig}).
+    id,
+    pubkey,
+    created_at,
+    kind,
+    tags,
+    content,
+    sig
+}).
